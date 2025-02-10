@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border: solid 50px;
+    border-color: black;
+}
+h2{
+    color:blue;
+}
+h3{
+    color:red;
+}
+h5{
+    color:blue;
+}
+h6{
+    color: red;
+}
